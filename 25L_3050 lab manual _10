@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Victoria's Journal</title>
+    <link rel="stylesheet" href="lab manual.css" />
+  </head>
+  <body>
+    <div id="container">
+      <header id="header">
+        <h1>Victoria's Journal</h1>
+        <p class="subtitle">so fresh and so clean</p></header>
+        <div id="main">
+          <aside id="sidebar">
+            <h2>Friends</h2>
+            <ul>
+              <li><a href="#">390 Buddies</a></li>
+            </ul>
+          </aside>
+          <section id="content">
+            <article class="post">
+              <h3>
+                <span class="date">04/09/08:</span>
+                spatulas
+              </h3>
+              <p>
+                Yesterday , i went to store and got some much needed spatulas!
+                <span class="quote">
+                  (what better way tp say i love myself then to by myselfa
+                  spatula?)
+                </span>
+              </p>
+            </article>
+            <article class="post">
+              <h3>
+                <span class="date">04/08/08: Cookie Cupcakes:</span>
+                spatulas
+              </h3>
+              <p>
+                My favorite cartoon character is Cookie, and my favorite dessert
+                is cupcakes. So Cookie Cupcakes are best of both worlds! Did you
+                know Cookie once said,
+                <span class="quote">
+                  “Sometimes me think what is love, and then me think love is
+                  what cookie is for.” I wonder if the same applies for
+                  cupcakes!
+                </span>
+              </p>
+            </article>
+          </section>
+        </div>
+      
+    </div>
+  </body>
+</html>
